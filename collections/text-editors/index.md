@@ -3,6 +3,7 @@ items:
  - adobe/brackets
  - limetext/lime
  - textmate/textmate
+ - panic/nova
  - neovim/neovim
  - overleaf/overleaf
  - slap-editor/slap
